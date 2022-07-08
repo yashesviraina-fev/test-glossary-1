@@ -1,0 +1,12 @@
+[:material-download: Download SOA Architecture PPT](./SoA_Reference_Architecture_Layers.pptx){ .my-button }
+
+![image01](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_01.png)
+![image02](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_02.png)
+![image03](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_03.png)
+![image04](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_04.png)
+![image05](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_05.png)
+![image06](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_06.png)
+![image07](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_07.png)
+![image08](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_08.png)
+![image09](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_09.png)
+![image10](./SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers/SoA_Reference_Architecture_Layers_10.png)

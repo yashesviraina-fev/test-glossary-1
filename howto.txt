@@ -1,0 +1,18 @@
+install python
+sudo apt install mkdocs
+
+pip install mkdocs-material
+pip install mkdocs-click
+pip install mike
+
+extract tar file
+
+cd {refArch Dir}/project/site
+open index.html in any browser
+
+OR
+
+cd {refArch Dir}/project
+mkdocs serve
+
+// this will host the website at http://127.0.0.1:8000/

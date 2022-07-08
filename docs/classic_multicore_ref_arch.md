@@ -1,0 +1,10 @@
+[:material-download: Download Multicore Architecture PPT](./Classic_Multicore_Reference_Architecture.pptx){ .my-button }
+
+![image0](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_01.png)
+![image1](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_02.png)
+![image2](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_03.png)
+![image3](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_04.png)
+![image4](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_05.png)
+![image5](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_06.png)
+![image6](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_07.png)
+![image7](./Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture/Classic_Multicore_Reference_Architecture_08.png)
